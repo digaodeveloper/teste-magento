@@ -1,0 +1,4 @@
+teste-magento
+=============
+
+APENAS UM TESTE DE REPOSITORIO DOS ARQUIVOS DO MAGENTO
